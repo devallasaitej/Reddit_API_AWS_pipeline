@@ -7,11 +7,13 @@ The objective of this project is to orchestarate a data pipeline using Airflow w
 3. AWS RDS: Relational data service to store final aggregated - reporting layer data in a table
 4. AWS IAM: Identity and Access management service to create roles to access AWS S3
 ## Data Pipeline Architecture
-<img width="816" alt="Reddit_datapipeline" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/ec21b250-b156-4a7b-b47d-ef00d087cdcb">
+<img width="816" alt="Reddit_datapipeline" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/fdd383da-60c6-4b45-9c2c-f3f3b4053764">
+
 
 ## Airflow DAG
-<img width="816" alt="Screenshot 2024-03-02 at 12 23 57 PM" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/f37e4d06-8fab-47b5-a166-d27bfd7a3098">
+<img width="816" alt="Screenshot 2024-03-02 at 12 23 57 PM" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/15ce5c5c-a39a-46d7-95b4-ddf28ce659bc">
+
 
 
 ## Final RDS Table snapshot
-<img width="816" alt="image" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/7d2861b2-4821-4352-bacd-83d0ae8304d5">
+
