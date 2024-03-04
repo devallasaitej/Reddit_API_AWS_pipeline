@@ -16,4 +16,5 @@ The objective of this project is to orchestarate a data pipeline using Airflow w
 
 
 ## Final RDS Table snapshot
+<img width="816" alt="image" src="https://github.com/devallasaitej/Reddit_API_AWS_pipeline/assets/64268620/b6a726b3-a8d2-43c8-8d4a-aab1e7e1c174">
 
