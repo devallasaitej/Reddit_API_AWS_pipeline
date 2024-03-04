@@ -1,0 +1,19 @@
+{
+    "reddit": {
+      "client_id": "Enter",
+      "client_secret": "Enter",
+      "user_agent": "Enter"
+    },
+    "aws": {
+      "access_key": "Enter",
+      "secret_key": "Enter",
+      "s3_bucket": "Enter"
+    },
+    "mysql": {
+      "host": "Enter",
+      "user": "Enter",
+      "password": "Enter",
+      "database": "Enter"
+    }
+  }
+  
